@@ -17,7 +17,6 @@ public static void main(String[] args){
 			y=j%10;
 		}
 		int p=(int)Math.pow(r, y);
-		System.out.println(p+"K");
 		j=j/10;
 		sum+=p;
 		c++;
