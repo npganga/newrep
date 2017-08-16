@@ -22,5 +22,6 @@ public static void main(String[] args){
 		max=0;
 	System.out.print(arr2[i]+" ");
 	}
+	in.close();
 }
 }
